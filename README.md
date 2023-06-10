@@ -1,5 +1,5 @@
 #   Eduminatti Internship Test Project
-#   [link](https://www.edumynation.com/category/schools-in-dubai)
+  [link to site](https://www.edumynation.com/category/schools-in-dubai)
 
 1.  Detect the loading speed?
 >>  Speed test in the attached png.
