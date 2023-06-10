@@ -17,4 +17,22 @@
 
     ```
 
-    There are a lot of dependencies in here
+    > > There are a lot of dependencies in here
+
+3.  Can do something with the code?
+
+    > > Condense the code to save space. The code takes the lot of space written here which takes time to load.
+    > > Use online compressor and uglify the code.
+
+4.  Files?
+
+    > > We can GZIP the files to make it render smoothly
+
+5.  Images?
+
+    > > Load image lazily using the css property:
+
+    ```
+    <img src="/w3images/paris.jpg" alt="Paris" style="width:100%" loading="lazy">
+
+    ```
